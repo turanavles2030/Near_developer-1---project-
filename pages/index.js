@@ -17,7 +17,7 @@ export default function Home() {
       <p className={styles.text}>1. Are you a blockchain enthusisast?<br />2.Do you like to learn and grow with the community?</p>
       <p>Hey,you reached the right path!!!</p>
       <Link href="/ninjas/">
-        <a className={styles.btn}>See Ninja Listing</a>
+        <a className={styles.btn}>See CodeBAGS Listing</a>
       </Link>
     </div>
   </>
